@@ -5,9 +5,9 @@ class Home extends Component {
   render() {
     return (
       <div className = "All">
-        /*<div>
+        <div>
           <Img src = 'p_photo.jpg' />
-        </div>*/ 
+        </div> 
         <h1>Taha I. Khawaja</h1>
       </div>
     )
