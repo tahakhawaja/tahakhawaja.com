@@ -5,7 +5,6 @@ class SocialIcon extends Component {
         const { link, name } = this.props;
         return (
             <a href={link} target="_blank" rel="noopener noreferrer">
-                /*<img src={`${process.env.PUBLIC_URL}/Icons/${name}.svg`} alt={`${name} logo`} />*/
             </a>
         );
     }
