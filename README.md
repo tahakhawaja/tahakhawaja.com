@@ -1,3 +1,3 @@
 # Personal Website
 
-This is a clean and minimalistic project portfolio website that I created using React. 
+This is a clean and minimalistic personal project portfolio website that I created using React. 
